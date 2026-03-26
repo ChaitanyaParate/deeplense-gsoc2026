@@ -7,3 +7,7 @@ lens-finding-test
 lens-finding-test.zip
 vit_lensing_best.pth.tar
 __pycache__
+classification_lensing_best.pth.tar
+dataset_stats.npz
+__results___files
+.virtual_documents
