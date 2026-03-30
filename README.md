@@ -11,7 +11,7 @@
 
 | Task | Model | Metric | Score |
 |------|-------|--------|-------|
-| Common Task I (Multi-Class Classification) | ViT-B/16 | Macro AUC | **0.9880** |
+| Common Task I (Multi-Class Classification) | ViT-B/16 | Macro AUC | **0.9893** |
 | Common Task I | ViT-B/16 | Accuracy | **93.95%** |
 | Specific Test V (Lens Finding) | ResNet-18 | AUC | **0.9909** |
 
