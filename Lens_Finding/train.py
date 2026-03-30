@@ -4,8 +4,6 @@ from tqdm import tqdm
 import torch.nn as nn
 import torch.optim as optim
 from model import model as mdel
-from dataset import LensDataset
-from torch.utils.data import DataLoader
 from utils import get_loaders, save_checkpoint, load_checkpoint, evaluate_roc_auc
 from loss import FocalLoss
 from torch.optim.lr_scheduler import CosineAnnealingLR

@@ -4,7 +4,7 @@ import numpy as np
 from sklearn.metrics import roc_auc_score, roc_curve
 import matplotlib.pyplot as plt
 from dataset import LensDataset
-from torch.utils.data import DataLoader, WeightedRandomSampler, random_split
+from torch.utils.data import DataLoader, WeightedRandomSampler
 import os
 
 
